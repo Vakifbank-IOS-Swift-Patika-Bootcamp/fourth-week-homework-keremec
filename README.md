@@ -1,5 +1,12 @@
 # fourth-week-homework
 
+
+
+https://user-images.githubusercontent.com/50713500/204158365-5135e4f8-01da-459e-a6eb-eb7494fa0507.mp4
+
+
+
+
 1- https://breakingbadapi.com/  API kullanılarak bir uygulama geliştirilecektir. Aşağıda detaylar verilmiştir.
 --
 
